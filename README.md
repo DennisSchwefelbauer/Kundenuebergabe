@@ -3,7 +3,7 @@
 
 Zur Geschichte: Wir habe die Abholbereiten Fahrzeuge mit der Rechnung im Kassenbereich liegen. Da die Werkstatt nur bis 16:30 besetzt ist, aber der Verkauf bis 18:00 mussten wir zur Übergabe immer einem Verkäufer über alles Bescheid geben, was abholbereit ist. Oftmals kam es dazu, dass sich der jeweilige Verkäufer nicht an alles erinnern konnte oder nicht so wiedergeben konnte, wie es vermittelt wurde oder in dem Moment nicht da oder verfügbar war.
 
-Um diesem problem entgegenzuwirken habe ich dieses kleine Programm geschrieben.
+Um diesem Problem entgegenzuwirken habe ich dieses kleine Programm geschrieben.
     
 Der Serviceberater kann in der Sektion Workstation die abholbereiten Fahrzeuge hinterlegen, mit den Arbeiten die durchgeführt wurden und etwaige Mängel/Infos hinzufügen.
 * Es kann angewählt werden ob der Kunde im vorfeld schon über alles informiert wurde.
